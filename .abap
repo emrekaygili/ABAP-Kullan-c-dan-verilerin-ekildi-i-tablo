@@ -1,4 +1,4 @@
-# ABAP-Kullan-c-dan-verilerin-ekildi-i-tablo
+# ABAP-Kullanicidan-verilerin-çekildiği-tablo
 Sap abapta kullanicidan verilerin cekildiği kisim
 
 ![saptablogorunum](https://github.com/user-attachments/assets/5be0a371-3527-4669-baf4-29a9c077f57d)
